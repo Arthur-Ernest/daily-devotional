@@ -11,28 +11,28 @@
 }
 
 #one{
-    background-image: url('/Images/photo-1545852528-fa22f7fcd63e.jfif');
+    background-image: url('/images/photo-1545852528-fa22f7fcd63e.jfif');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 #two{
-    background-image: url('/Images/snowy\ mountain.jfif');
+    background-image: url('/images/snowy\ mountain.jfif');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #three{
-    background-image: url('/Images/sea.jfif');
+    background-image: url('/images/sea.jfif');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #four{
-    background-image: url('/Images/garden.jpg');
+    background-image: url('/images/garden.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
